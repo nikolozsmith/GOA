@@ -59,4 +59,4 @@ exitonclick()
 
 penup()
 
-goto(200,200,200,200,)
+#end
