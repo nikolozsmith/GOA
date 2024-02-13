@@ -1,0 +1,3 @@
+print("gavicani andria dolodze da mate giorgelashvili oriveni dzalian ketilebi arian da mate sul mexareba rame tu mchirdeba da andro dzalian kargi megobaria")
+
+print("chemi azrit goa aris dzalian saintereso garemo da mand ar swavlob marto aitis aseve swavlob zrdilobas xalxtan kontaqts da dzalian kargi garemoa yoveltvis vinmea shens gverdze rom daexmaros da rogorc zog skolashi aqar aris aranairi bulingi da ertmaetis damcireba piriqit aq yvela yvelas exmareb")
